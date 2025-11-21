@@ -8,6 +8,6 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.release>24</maven.compiler.release>
-        <exec.mainClass>Controlador.SistemaCineFinal</exec.mainClass>
+        <exec.mainClass>Controlador.AppCine</exec.mainClass>
     </properties>
 </project>
